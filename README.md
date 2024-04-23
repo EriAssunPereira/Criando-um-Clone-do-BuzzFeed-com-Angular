@@ -25,3 +25,9 @@ Criar um clone do BuzzFeed com Angular pode ser uma ótima maneira de aprender e
    - Após testar e finalizar o desenvolvimento, faça o deploy do seu projeto em um servidor ou plataforma de hospedagem.
 
 Lembre-se de consultar a documentação oficial do Angular para obter orientações detalhadas sobre cada etapa. Além disso, existem projetos no GitHub que podem servir de inspiração ou referência para o seu desafio¹².
+
+**Projeto para Clonar **: 
+
+É baseado no BuzzFeed e foi criado com Angular. Você pode explorar o código-fonte e ver como o projeto foi implementado³.
+
+Esses projetos podem servir como modelos práticos para o seu próprio clone do BuzzFeed com Angular. Lembre-se de analisar o código, entender as estruturas e funcionalidades, e adaptá-las ao seu projeto.
